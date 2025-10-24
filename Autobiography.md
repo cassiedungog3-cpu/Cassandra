@@ -8,8 +8,8 @@
 </head>
 <body>
     <div class="container">
-        <section id="My Life">
-            <h1>My Life</h1>
+        <section id="Introduction ">
+            <h1>Introduction</h1>
             <p>Hello! I'm Cassandra D. Dungog, a proud resident of Babag 2, Lapu-Lapu City. I am passionate about technology, arts, and community service. My journey has been shaped by the vibrant culture and close-knit community of Cebu, which has instilled in me a strong sense of resilience, creativity, and dedication. I am excited to share a glimpse into my life, experiences, and aspirations.</p>
         </section>
         
