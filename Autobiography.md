@@ -23,6 +23,7 @@
             <h2>Goals</h2>
             <p>Looking ahead, my primary goal is to establish myself as a writer. Realistically, this involves several key steps: honing my writing skills through consistent practice and feedback, building a strong portfolio with diverse samples, and gaining experience through internships or freelance work. I also plan to immerse myself in the writing community, attending workshops and networking with other writers to learn from their experiences and open doors to potential opportunities. Ultimately, I aim to contribute meaningfully to the literary world by crafting stories that resonate with readers and reflect the vibrant culture of Cebu.</p>
         </section>
+       
         <section id="hobbies">
             <h2>Hobbies</h2>
             <p>Outside of my academic and professional aspirations, I enjoy a variety of hobbies that help me unwind and stay creative. Playing volleyball is a great way for me to stay active and connect with friends, while listening to music provides a soothing escape and inspires my thoughts. I also find great pleasure in reading books, which broadens my perspective and fuels my imagination. Additionally, I love writing stories, as it allows me to express my creativity and share my unique perspective with the world.</p>
