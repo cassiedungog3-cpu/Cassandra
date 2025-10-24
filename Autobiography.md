@@ -12,6 +12,12 @@
             <h1>My Life</h1>
             <p>Hello! I'm Cassandra D. Dungog, a proud resident of Babag 2, Lapu-Lapu City. I am passionate about technology, arts, and community service. My journey has been shaped by the vibrant culture and close-knit community of Cebu, which has instilled in me a strong sense of resilience, creativity, and dedication. I am excited to share a glimpse into my life, experiences, and aspirations.</p>
         </section>
+        
+        <section id="my-life">
+            <h2>My Life</h2>
+            <p>Today has been one of those days filled with a mix of emotions and challenges. Circumstances have brought about moments of sadness, reminding me of the obstacles that life often throws our way. It's a stark reminder that the path to achieving my goals isn't always smooth, and sometimes, unexpected setbacks can make the journey feel overwhelming. However, I'm trying to keep in mind that these moments, though difficult, are also opportunities for growth and resilience.</p>
+            <p>Despite the challenges, I remain determined to keep moving forward. The difficulties I face today are fueling my resolve to work even harder towards my goals. I believe that every obstacle overcome is a step closer to realizing my aspirations. While it's okay to acknowledge the sadness and frustration, I'm committed to channeling these feelings into positive action and using them as motivation to create a brighter future for myself.</p>
+        </section>
 
         <section id="education">
             <h2>Education</h2>
